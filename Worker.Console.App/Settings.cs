@@ -12,5 +12,6 @@ namespace Worker.ConsoleApp
         public string Password { get; set; }
         public string VirtualHost { get; set; }
         public string QueueName { get; set; }
+        public string URL { get; set; }
     }
 }

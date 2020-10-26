@@ -31,7 +31,7 @@ namespace Worker.ConsoleApp.RabbitMQ
             //};
 
             _connectionFactory = new ConnectionFactory();
-            _connectionFactory.Uri = new Uri("amqps://htasymiw:rs6Hc519hZSTfDAIM993xajtYKPbcafU@jackal.rmq.cloudamqp.com/htasymiw");
+            _connectionFactory.Uri = new Uri(_settings.URL);
 
             _connection = _connectionFactory.CreateConnection();
             _channel = _connection.CreateModel();
