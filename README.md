@@ -38,7 +38,7 @@ Entrar na instância de RabbitMQ e Copiar a AMQP URL:
 
 Abrir o arquivo appsettings.json e alterar o campo URL com o AMQP URL do RabbitMQ conforme a imagem a cima.
 <br />
-Lmebrando que precisar alterar o appsettings.json dentro de cada aplicação Console (Send.ConsoleApp e Worker.Console.App)
+Lembrando que precisar alterar o appsettings.json dentro de cada aplicação Console (Send.ConsoleApp e Worker.Console.App)
 
 <br />
 Após a alteração somente executar o projeto Send para enviar a informação para Fila e depois rodar o Worker para consumir a informação da Fila.
