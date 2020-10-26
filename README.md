@@ -1,8 +1,10 @@
 # RabbitMQExemplo
 
  Um exemplo de como utilizar a Fila RabbitMQ (Consumir e enviar).
+ <br />
+ Não é necessario realizar a instalação do RabbitMQ na maquina ou utilizar uma imagem do Docker do RabbitMQ.
 <br />
- Esse projeto utiliza o RabbitMQ do seguinte site: https://www.cloudamqp.com/
+ Esse projeto utiliza o RabbitMQ do seguinte site: https://www.cloudamqp.com/ (FREE)
  
 ## Configuração do Cloudamqp
 
