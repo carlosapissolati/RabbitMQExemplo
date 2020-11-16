@@ -63,8 +63,8 @@ Após a alteração somente executar o projeto Send para enviar a informação p
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/carlosapissolati/README.svg?style=flat-square
-[contributors-url]: https://github.com/carlosapissolati/Best-README-Template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/carlosapissolati/RabbitMQExemplo.svg?style=flat-square
+[contributors-url]: https://github.com/carlosapissolati/RabbitMQExemplo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/carlosapissolati/README.svg?style=flat-square
 [forks-url]: https://github.com/carlosapissolati/README/network/members
 [stars-shield]: https://img.shields.io/github/stars/carlosapissolati/README.svg?style=flat-square
